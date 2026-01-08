@@ -162,4 +162,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # React development server
     "http://localhost:5174",  # Vue development server
     "http://127.0.0.1:5175",  # Alternative localhost format
+    "https://blog-react-application1.onrender.com",
 ]

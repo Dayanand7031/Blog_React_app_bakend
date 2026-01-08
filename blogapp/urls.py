@@ -12,5 +12,4 @@ urlpatterns = [
     path('get_username/', views.get_username, name="get_username"),
     path('blogs/<slug:slug>/',views.get_blog, name="get_blog"),
     path("get_userinfo/<str:username>/", views.get_user_info),
-
 ]
