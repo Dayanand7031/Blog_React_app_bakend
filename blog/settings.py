@@ -164,4 +164,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5175",  # Alternative localhost format
     "https://blog-react-application1.onrender.com",
     "https://blog-react-application.onrender.com",
+    "https://blog-react-dev.onrender.com/",
 ]
